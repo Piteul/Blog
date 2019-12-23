@@ -256,6 +256,17 @@
 			}
 		}
 
+		&.avatar70 {
+			width: 70px;
+			height: 70px;
+			background: #f00;
+
+			img {
+				width: 70px;
+				height: 70px;
+			}
+		}
+
 		&.fit {
 			display: block;
 			width: 100%;
